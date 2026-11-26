@@ -1,0 +1,28 @@
+# Número de estaciones, número de túneles
+8 11
+
+# Estación | Tiempo de Transbordo
+1 2
+2 3
+3 1
+4 2
+5 2
+6 1
+7 0
+8 0
+
+# Túneles: Estación_Origen | Estación_Destino | Tiempo_Viaje | Línea
+1 2 4 L1
+2 3 3 L1
+2 5 8 L4
+3 5 4 L4
+5 7 13 L4
+6 3 5 L9
+3 4 2 L9
+4 8 6 L9
+6 4 11 L2
+5 8 7 L4
+4 7 9 L2
+
+# Datos de la Misión: Origen_Pierre | Origen_Amélie | Destino_Búnker_P | Destino_Búnker_A
+1 6 7 8
